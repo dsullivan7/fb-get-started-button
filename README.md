@@ -2,10 +2,13 @@
 A wrapper around the POST and DELETE requests used to add and remove the "Get Started" button for Facebook Messenger
 https://developers.facebook.com/docs/messenger-platform/thread-settings/get-started-button
 
-## Usage
+## Install
 ```
 $ npm install -g fb-get-started-button
+```
 
+## Usage
+```
 $ fb-get-started-button add <YOUR PAGE ACCESS TOKEN>
 Adding "Get Started" button with the payload "GET_STARTED"
 Successfully added new_thread's CTAs
