@@ -1,4 +1,6 @@
 # fb-get-started-button
+A wrapper around the POST and DELETE requests used to add and remove the "Get Started" button for Facebook Messenger
+https://developers.facebook.com/docs/messenger-platform/thread-settings/get-started-button
 
 ## Usage
 ```
