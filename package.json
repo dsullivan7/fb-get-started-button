@@ -1,0 +1,28 @@
+{
+  "name": "fb-get-started-button",
+  "version": "1.0.0",
+  "description": "Adds or removes the \"Get Started\" button for Messenger in a Facebook page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "fb-get-started-button": "bin/fb-get-started-button.js"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "chatbot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dsullivan7/fb-get-started-button.git"
+  },
+  "author": "Danny Sullivan",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
