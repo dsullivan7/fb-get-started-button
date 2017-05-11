@@ -1,6 +1,6 @@
 {
   "name": "fb-get-started-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds or removes the \"Get Started\" button for Messenger in a Facebook page",
   "main": "index.js",
   "scripts": {
